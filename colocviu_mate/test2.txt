@@ -1,0 +1,8 @@
+Cybersecurity means protecting data, networks, programs and other information from unauthorized or unattended access, destruction or change. In today’s world, cybersecurity is very important because of some security threats and cyber-attacks. For data protection, many companies develop software. This software protects the data. Cybersecurity is important because not only it helps to secure information but also our system from virus attack. After the U.S.A. and China, India has the highest number of internet users.
+
+Cyber Crime
+Use of cyberspace, i.e. computer, internet, cellphone, other technical devices, etc., to commit a crime by an individual or organized group is called cyber-crime. Cyber attackers use numerous software and codes in cyberspace to commit cybercrime. They exploit the weaknesses in the software and hardware design through the use of malware. Hacking is a common way of piercing the defenses of protected computer systems and interfering with their functioning. Identity theft is also common.
+
+Cybercrimes may occur directly i.e,  targeting the computers directly by spreading computer viruses. Other forms include DoS attack. It is an attempt to make a machine or network resource unavailable to its intended users. It suspends services of a host connected to the internet which may be temporary or permanent.
+
+Malware is a software used to disrupt computer operation, gather sensitive information, or gain access to private computer systems. It usually appears in the form of code, scripts, active content, and other software. ‘Malware’ refers to a variety of forms of hostile or intrusive software, for example, Trojan Horses, rootkits, worms, adware, etc.
